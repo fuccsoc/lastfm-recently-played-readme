@@ -9,11 +9,11 @@ import { UserInfoResponse } from '../../models/UserInfoResponse';
 
 const defaultCount = 5;
 const minCount = 1;
-const maxCount = 10;
+const maxCount = 100;
 
 const defaultWidth = 400;
 const minWidth = 300;
-const maxWidth = 1000;
+const maxWidth = 2000;
 
 const defaultLovedStyle = LovedTrackStyle.RightOfAlbumArt;
 
